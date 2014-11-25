@@ -1,0 +1,37 @@
+/* Page rules */
+body {
+	font-family: 'Lucida Grande', sans-serif;
+}
+
+/* Header */
+.heading {
+	margin-bottom: 20px;
+}
+h1 {
+	color: #666666;
+	font-size: 48px;
+	padding-top: 25px;
+}
+
+/* Content */
+h2 {
+	color: #F07C17;
+	font-size: 24px;
+	font-weight: bold;
+	margin: 0;
+	margin-bottom: 35px;
+}
+
+li {
+	line-height: 2em;
+}
+
+p {
+	font-size: 16px;
+	line-height: 2em;
+}
+.features {
+	border: 1px solid #cccccc;
+	margin-top: 30px;
+	padding: 30px;
+}
